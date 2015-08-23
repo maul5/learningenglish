@@ -72,11 +72,13 @@
 
 
 ## 소요기술
+- Security (Authentification & Authorization) : OAuth2, TLS
 - Servie architecture
 - DB Handling
 - Protocol handling
 - Result analysis
-
+- docker-based test and deployment
+	- [Docker Training](https://training.docker.com/)
 
 ## 진행이력
 - 2015.08.19 최초 컨셉 확정
