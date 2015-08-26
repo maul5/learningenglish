@@ -84,6 +84,15 @@
 - docker-based test and deployment
 	- [Docker Training](https://training.docker.com/)
 
+## MICROSERVICE
+- 화상영어 서비스 
+- 회원관리 서비스 
+- 게시판 서비스 
+- 수강관리 서비스
+- 정산 서비스 
+- 결제 서비스 
+- 시스템 모니터링 서비스 
+
 ## 진행이력
 - 2015.08.19 최초 컨셉 확정
 - 2015.08.26 시장 조사 결과 공유 (기능 목록)
